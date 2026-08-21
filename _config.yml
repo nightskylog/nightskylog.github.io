@@ -25,7 +25,7 @@ external: # accepts {file, title, url, icon, sidebaricon}
   - { title: Mail, icon: envelope, url: "mailto:author@example.com" }
   - {
       title: Bluesky,
-      icon: bluesky,
+      icon: fa-brands fa-bluesky,
       url: "https://bsky.app/profile/nxbalazs.bsky.social",
     }
   - { title: Github, icon: github, url: "https://github.com/nightskylog/" }
