@@ -5,6 +5,7 @@ layout: post
 
 Már óvodában érdekelt a csillagászat. Émlékszem, mikor még kisgyerekként apámmal és testvéremmel néztünk este egy üstököst. Pontosan nem tudom melyik lehetett és mikor, vagy 1996-ban a Hyakutake, vagy 95-ben a Hale-Bopp üstökös. Ami biztos, hogy a nyugati égbolton volt. De arra emlékszek, hogy teljesen elvarázsolt. 
 
+
 Később már felnőttként, kissebb távcsövem volt egy darabig, amivel a Holdat és a Jupitert (és pár holdját), szépen meg tudtam figyelni. 
 
 Pár éve találtam egy 3d nyomtatható [modellt][ntelescope], pontosan egy newton tükrös távcső modelljét (114/900). 3D nyomtatóm van, ki is nyomtattam, Amazonról rendeltem hozzá tükröt (30 euró). Ezzel már a Holdat nagyon részletesen meg tudtam figyelni.
