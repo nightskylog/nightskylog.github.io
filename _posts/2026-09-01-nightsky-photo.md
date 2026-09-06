@@ -3,4 +3,4 @@ title: "NightSky photo #1"
 layout: post
 ---
 
-![title](/assets/IMG_4201.jpg)
+![NightSky photo #1](/assets/IMG_4201.jpg)
